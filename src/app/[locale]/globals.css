@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scrollbar-width: none;
+}
+
+.mouse {
+  background: linear-gradient(#61ffd5, #1e007f);
+}
+
+.bio {
+  background: linear-gradient(#1e007f, #ff3ae1);
+}
+
+.work {
+  background: linear-gradient(#ff3ae1, #1e007f);
+}
+
+.contact {
+  background: linear-gradient(#ff3ae1, #1e007f);
+}
